@@ -16,8 +16,8 @@ class Owner
   end
 
   def name=(name)
-    @name
-    
-    
+    self.name
+
+
   end
 end

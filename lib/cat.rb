@@ -8,9 +8,9 @@ class Cat
   end
 end
 
-def mood
-@mood
-end
+  def mood
+    @mood
+  end
 
 
 end

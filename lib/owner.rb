@@ -5,10 +5,10 @@ class Owner
   def initialize(name)
 
 
-  @@owners <<self
+  @@owners << self
 
 
   end
 
-  
+
 end

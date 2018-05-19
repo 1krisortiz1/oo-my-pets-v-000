@@ -2,8 +2,8 @@ class Cat
   attr_accessor :mood
   attr_reader :name
 
-  def initialize(species)
-    @species = species 
+  def initialize(name)
+    @name = name
     @mood = "nervous"
   end
 

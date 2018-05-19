@@ -16,7 +16,7 @@ class Owner
   end
 
   def name=(name)
-    self.name
+    self.name = name
 
 
   end
